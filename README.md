@@ -1,7 +1,5 @@
 # dbterd
 
-Generate the ERD-as-a-code ([DBML](https://dbdiagram.io/d), [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/), [PlantUML](https://plantuml.com/ie-diagram), [GraphViz](https://graphviz.org/), [D2](https://d2lang.com/)) from dbt artifact files (`dbt Core`) or from dbt metadata (`dbt Cloud`)
-
 [![PyPI version](https://badge.fury.io/py/dbterd.svg)](https://pypi.org/project/dbterd/)
 ![python-cli](https://img.shields.io/badge/CLI-Python-FFCE3E?labelColor=14354C&logo=python&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -106,13 +104,13 @@ dbterd --version
 
 </details>
 
-🏃Check out the [Quick Demo](https://dbterd.datnguyen.de/latest/nav/guide/targets/generate-dbml.html) with DBML!
+🏃Check out the [Quick Demo](https://brankopoledic/latest/nav/guide/targets/generate-dbml.html) with DBML!
 
 ## Contributing ✨
 
 If you've ever wanted to contribute to this tool, and a great cause, now is your chance!
 
-See the contributing docs [CONTRIBUTING](https://dbterd.datnguyen.de/latest/nav/development/contributing-guide.html) for more information.
+See the contributing docs [CONTRIBUTING](https://brankopoledic/latest/nav/development/contributing-guide.html) for more information.
 
 If you've found this tool to be very helpful, please consider giving the repository a star, sharing it on social media, or even writing a blog post about it 💌
 
@@ -121,8 +119,8 @@ If you've found this tool to be very helpful, please consider giving the reposit
 
 Finally, super thanks to our *Contributors*:
 
-<a href="https://github.com/datnguye/dbterd/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=datnguye/dbterd" />
+<a href="https://github.com/brankopoledic/dbterd/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=brankopoledic/dbterd" />
 </a>
 
 </br>
